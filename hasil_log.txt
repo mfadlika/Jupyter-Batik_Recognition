@@ -1,0 +1,356 @@
+2025-04-20 15:09:53
+akurasi: 39.67%
+overfitting: True
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: -
+---
+
+2025-04-20 15:09:53
+akurasi: 39.67%
+overfitting: True
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: -
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 15 benar
+Batik Poleng: 17 benar
+Batik Tambal: 18 benar
+---
+
+2025-04-20 15:16:21
+akurasi: 50.00%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: epoch 10 -> 15
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 17 benar
+Batik Kawung: 15 benar
+Batik Poleng: 15 benar
+Batik Tambal: 17 benar
+---
+
+2025-04-20 15:21:02
+akurasi: 52.67%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: zoom range [0.1, 0.7]
+---
+
+kelas dengan ≥15 benar:
+#Batik Dayak, Parang, Ikan Celup: 14, 14, 13 benar
+Batik Kawung: 15 benar
+Batik Poleng: 15 benar
+Batik Tambal: 17 benar
+---
+
+2025-04-20 15:25:58
+akurasi: 51.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: epoch 15 -> 20
+---
+
+kelas dengan ≥15 benar:
+#Batik Kawung: 11
+#Batik Sekar Jagad: 13
+Batik Dayak: 15 benar
+Batik Ikat Celup: 16 benar
+Batik Parang: 18 benar
+Batik Poleng: 15 benar
+Batik Tambal: 17 benar
+---
+
+2025-04-20 15:32:04
+akurasi: 53.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: batch size 128 -> 64
+---
+
+kelas dengan ≥15 benar:
+#Batik Sekar Jagad: 14
+#Batik Parang: 13
+#Batik Tambal: 14 benar
+Batik Dayak: 17 benar
+Batik Ikat Celup: 19 benar
+Batik Kawung: 16 benar
+Batik Poleng: 18 benar
+---
+
+2025-04-20 16:28:09
+akurasi: 56.67%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: epoch 20 -> 30
+---
+
+kelas dengan ≥15 benar:
+Batik Parang: 17 benar
+Batik Poleng: 15 benar
+Batik Tambal: 15 benar
+---
+
+2025-04-21 14:17:29
+akurasi: 60.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: epoch 30 -> 40; zoom range [0.1, 0.9]
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 17 benar
+Batik Kawung: 17 benar
+Batik Parang: 15 benar
+Batik Poleng: 18 benar
+Batik Tambal: 16 benar
+---
+
+2025-04-21 14:30:45
+akurasi: 60.00%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: epoch 40 -> 35
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 17 benar
+Batik Parang: 17 benar
+Batik Poleng: 15 benar
+Batik Tambal: 19 benar
+---
+
+2025-04-21 14:41:45
+akurasi: 53.67%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: horizontal dan vertical flip: false
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 16 benar
+Batik Ikat Celup: 15 benar
+Batik Kawung: 16 benar
+Batik Poleng: 17 benar
+Batik Tambal: 15 benar
+---
+
+2025-04-21 14:48:36
+akurasi: 62.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: vertical flip: true
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 17 benar
+Batik Ikat Celup: 15 benar
+Batik Poleng: 17 benar
+Batik Tambal: 17 benar
+---
+
+2025-04-21 15:04:11
+akurasi: 63.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: brightness_range=[0.8, 1.2], rotation_range=10, hapus width height shear range, fill mode = nearest
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 15 benar
+Batik Insang: 16 benar
+Batik Parang: 17 benar
+Batik Poleng: 17 benar
+Batik Tambal: 19 benar
+---
+
+2025-04-21 15:09:29
+akurasi: 66.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: zoom range: 0.1
+---
+
+kelas dengan ≥15 benar:
+Batik Cendrawasih: 16 benar
+Batik Dayak: 15 benar
+Batik Insang: 15 benar
+Batik Megamendung: 19 benar
+Batik Parang: 16 benar
+Batik Poleng: 17 benar
+Batik Tambal: 18 benar
+---
+
+2025-04-21 15:18:17
+akurasi: 68.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: channel_shift_range=20.0
+---
+
+kelas dengan ≥15 benar:
+Batik Cendrawasih: 16 benar
+Batik Dayak: 16 benar
+Batik Insang: 17 benar
+Batik Megamendung: 19 benar
+Batik Parang: 15 benar
+Batik Poleng: 18 benar
+Batik Sekar Jagad: 17 benar
+Batik Tambal: 18 benar
+---
+
+2025-04-21 15:28:15
+akurasi: 40.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: naik
+perubahan: Unfreeze 20 layer terakhir dari MobileNetV2; optimizer adam -> SGD LR=0.1
+---
+
+kelas dengan ≥15 benar:
+Batik Kawung: 17 benar
+Batik Megamendung: 18 benar
+---
+
+2025-04-21 15:43:12
+akurasi: 70.00%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: optimizer SGD -> Adam LR=0.0001
+---
+
+kelas dengan ≥15 benar:
+Batik Cendrawasih: 16 benar
+Batik Dayak: 17 benar
+Batik Kawung: 20 benar
+Batik Megamendung: 18 benar
+Batik Parang: 17 benar
+Batik Poleng: 17 benar
+Batik Tambal: 17 benar
+---
+
+2025-04-21 15:56:06
+akurasi: 65.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: label smoothing: 0.1; ReduceLROnPlateau
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 16 benar
+Batik Insang: 15 benar
+Batik Kawung: 19 benar
+Batik Megamendung: 18 benar
+Batik Parang: 17 benar
+Batik Poleng: 16 benar
+Batik Tambal: 17 benar
+---
+
+2025-04-21 16:28:41
+akurasi: 58.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: label smoothing: delete; ReduceLROnPlateau: delete; gaussian blur
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 16 benar
+Batik Kawung: 20 benar
+Batik Parang: 16 benar
+Batik Sekar Jagad: 15 benar
+Batik Tambal: 18 benar
+---
+
+2025-04-24 12:22:50
+akurasi: 63.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: gaussian blur: delete
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 16 benar
+Batik Kawung: 19 benar
+Batik Megamendung: 19 benar
+Batik Parang: 16 benar
+Batik Tambal: 16 benar
+---
+
+2025-04-24 14:23:40
+akurasi: 63.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: label smoothing: delete; ReduceLROnPlateau: delete; gaussian blur
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 17 benar
+Batik Geblek Renteng: 15 benar
+Batik Kawung: 18 benar
+Batik Megamendung: 18 benar
+Batik Parang: 16 benar
+Batik Poleng: 16 benar
+Batik Tambal: 17 benar
+---
+
