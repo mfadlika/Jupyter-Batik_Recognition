@@ -354,3 +354,23 @@ Batik Poleng: 16 benar
 Batik Tambal: 17 benar
 ---
 
+2025-04-26 18:13:14
+akurasi: 71.33%
+overfitting: False
+accuracy: naik
+loss: turun
+val_accuracy: naik
+val_loss: turun
+perubahan: Densenet
+---
+
+kelas dengan ≥15 benar:
+Batik Dayak: 19 benar
+Batik Ikat Celup: 15 benar
+Batik Kawung: 16 benar
+Batik Megamendung: 17 benar
+Batik Parang: 18 benar
+Batik Poleng: 19 benar
+Batik Tambal: 18 benar
+---
+
